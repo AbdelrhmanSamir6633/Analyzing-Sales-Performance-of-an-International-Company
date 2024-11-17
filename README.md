@@ -54,6 +54,7 @@ This structure supports a variety of analyses, such as:
     - Converting all currencies to USD to be able to visualize it as required.
     - Remove duplicates, handle null values.
     - Filter unnecessary rows, and format columns appropriately.
-    - Creating New Measures such as:
+    - Creating Measures for various metrics and KPIs such as:
+        - 
 
 
