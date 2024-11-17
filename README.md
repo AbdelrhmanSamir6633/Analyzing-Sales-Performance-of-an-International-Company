@@ -42,4 +42,18 @@ This structure supports a variety of analyses, such as:
 
 ## Tools and Technologies Used:
 
+- Power BI for creating interactive data visualizations and dashboards.
+- Power Query for data transformation.
+- DAX for Creating Measures, Calculated Columns, Time Intelligence Calculations, and other Advanced Calculations.
+
+## Analysis Process/Methodology
+
+1) Understanding the Business Problem: Identify the business problem or goals for the analysis based on the mentioned problem description above.
+2) Data Exploration and Familiarization: Understand the structure, relationships, and contents of the dataset.
+3) Data Cleaning and Transformation: Prepare the data for analysis by handling missing values, standardizing formats, and creating new calculated fields using Power Query such as:
+    - Converting all currencies to USD to be able to visualize it as required.
+    - Remove duplicates, handle null values.
+    - Filter unnecessary rows, and format columns appropriately.
+    - Creating New Measures such as:
+
 
