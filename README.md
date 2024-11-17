@@ -7,21 +7,28 @@ this project will evaluate sales data to uncover insights into seasonal trends, 
 Key deliverables will include interactive dashboards, in-depth visualizations, and detailed reports that highlight opportunities for enhancing sales performance and addressing challenges in various international markets.
 
 ## Content:
+1- Problem Overview
+2- Project Overview
+3- Database Description
+4- Tools and Technologies Used
+5- Data Model
+6- Analysis Process/Methodology
+7- Key Visualizations
+8- Data Source & Project Files
 
 
 
 
-
-## Problem Overview
+## (1/8) Problem Overview
 
 ![Problem Description](https://github.com/user-attachments/assets/220707b5-eb44-48e8-82fd-250bcdc19c47)
 
 
-## Project Overview
+## (2/8) Project Overview
 
 The business problem typically addressed involves identifying areas for improving performance, such as increasing sales, optimizing inventory, enhancing customer satisfaction, or improving operational efficiency, so the project will include specific Measures and Key deliverables which will result in interactive dashboards, in-depth visualizations, and detailed report that highlight opportunities for enhancing sales performance and addressing challenges in various international markets.
 
-## Database Description
+## (3/8) Database Description
 
 This database contains sales data for an international company, structured across multiple fact and dimension tables to facilitate detailed analysis of sales transactions, customer behaviors, and product performance across different regions and currencies.
 
@@ -40,20 +47,20 @@ This structure supports a variety of analyses, such as:
 - Currency impact on sales by using exchange rates to convert transactions to USD.
 - Geographical analysis of sales territories.
 
-## Tools and Technologies Used:
+## (4/8) Tools and Technologies Used
 
 - Power BI for creating interactive data visualizations and dashboards.
 - Power Query for data transformation.
 - DAX for Creating Measures, Calculated Columns, Time Intelligence Calculations, and other Advanced Calculations.
 
-## Data Model
+## (5/8) Data Model
 
   - The model is structured with relationships connecting the Fact table (sales) to the relevant dimension tables (Customers, Products, Currency, SalesTeritory, and Date). These relationships enable robust reporting and writing DAX formulas for data exploration.
 
 ![0_Data Model](https://github.com/user-attachments/assets/96a10af7-b4f3-4cfd-bf5b-35a21c2a7e19)
 
 
-## Analysis Process/Methodology
+## (6/8) Analysis Process/Methodology
 
 1) Understanding the Business Problem: 
   - Identify the business problem or goals for the analysis based on the mentioned problem description above.
@@ -118,7 +125,7 @@ This structure supports a variety of analyses, such as:
 5) Data Visualization and Reporting:
   - Present key findings through visualizations and reports for better decision-making.
 
-## Key Visualizations
+## (7/8) Key Visualizations
 
 The Sales Overview Dashboard provides a high-level summary of the key performance metrics related to sales, offering valuable insights into the overall performance of the business
 showing Total Sales Amount vs Time, Currency, and Country.
@@ -129,7 +136,7 @@ showing Total Sales Amount vs Time, Currency, and Country.
 - <a href="[https://github.com/AbdelrhmanSamir6633/AdventureWorks-DataAnalysis-SQL-Power-BI/tree/main/1_Problem%20Explanation](https://app.powerbi.com/groups/me/reports/1ed566a7-bf8d-4c0e-bf71-23f053f420b8/1d6ee74968bc72975bcb?experience=power-bi&bookmarkGuid=d6ed3a85c8886f5188f6)">Power BI Interactive Dashboard</a>
 
 
-## Data Source
+## (8/8) Data Source & Project Files
 
 - <a href="https://github.com/AbdelrhmanSamir6633/Analyzing-Sales-Performance-of-an-International-Company/blob/main/Data%20Source.xlsx">Data Source</a>
 
