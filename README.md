@@ -7,14 +7,23 @@ this project will evaluate sales data to uncover insights into seasonal trends, 
 Key deliverables will include interactive dashboards, in-depth visualizations, and detailed reports that highlight opportunities for enhancing sales performance and addressing challenges in various international markets.
 
 ## Content:
+
 1- Problem Overview
+
 2- Project Overview
+
 3- Database Description
+
 4- Tools and Technologies Used
+
 5- Data Model
+
 6- Analysis Process/Methodology
+
 7- Key Visualizations
+
 8- Data Source & Project Files
+
 
 
 
