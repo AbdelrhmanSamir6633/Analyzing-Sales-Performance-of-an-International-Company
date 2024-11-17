@@ -64,7 +64,7 @@ This structure supports a variety of analyses, such as:
 
 ## (5/8) Data Model
 
-  - The model is structured with relationships connecting the Fact table (sales) to the relevant dimension tables (Customers, Products, Currency, SalesTeritory, and Date). These relationships enable robust reporting and writing DAX formulas for data exploration.
+The model is structured with relationships connecting the Fact table (sales) to the relevant dimension tables (Customers, Products, Currency, SalesTeritory, and Date). These relationships enable robust reporting and writing DAX formulas for data exploration.
 
 ![0_Data Model](https://github.com/user-attachments/assets/96a10af7-b4f3-4cfd-bf5b-35a21c2a7e19)
 
