@@ -131,7 +131,11 @@ showing Total Sales Amount vs Time, Currency, and Country.
 
 ## Data Source
 
+- <a href="https://github.com/AbdelrhmanSamir6633/Analyzing-Sales-Performance-of-an-International-Company/blob/main/Data%20Source.xlsx">Data Source</a>
 
+- <a href="https://github.com/AbdelrhmanSamir6633/Analyzing-Sales-Performance-of-an-International-Company/blob/main/Dashboard.pdf">Dashboard</a>
+
+- <a href="https://github.com/AbdelrhmanSamir6633/Analyzing-Sales-Performance-of-an-International-Company/blob/main/FINAL%20PROJECT.pbix">Power BI file</a>
 
 
 
