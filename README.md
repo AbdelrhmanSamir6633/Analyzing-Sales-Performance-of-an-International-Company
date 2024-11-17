@@ -112,5 +112,36 @@ This structure supports a variety of analyses, such as:
   - Parameter: for Dynamic Data Source Connections
     - "Source" parameter is used to have the ability to change the data source dynamically, such as switching between different databases, servers, or file paths.
 
+4) Exploratory Data Analysis (EDA):
+  -  Identify patterns, trends, and insights within the data.
+
+5) Data Visualization and Reporting:
+  - Present key findings through visualizations and reports for better decision-making.
+
+## Key Visualizations
+
+The Sales Overview Dashboard provides a high-level summary of the key performance metrics related to sales, offering valuable insights into the overall performance of the business
+showing Total Sales Amount vs Time, Currency, and Country.
+
+![Dashboard_page-0001](https://github.com/user-attachments/assets/860205ce-df83-47b4-a061-79e96225caff)
+
+
+- <a href="[https://github.com/AbdelrhmanSamir6633/AdventureWorks-DataAnalysis-SQL-Power-BI/tree/main/1_Problem%20Explanation](https://app.powerbi.com/groups/me/reports/1ed566a7-bf8d-4c0e-bf71-23f053f420b8/1d6ee74968bc72975bcb?experience=power-bi&bookmarkGuid=d6ed3a85c8886f5188f6)">Power BI Interactive Dashboard</a>
+
+
+## Data Source
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
