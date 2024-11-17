@@ -142,7 +142,7 @@ showing Total Sales Amount vs Time, Currency, and Country.
 ![Dashboard_page-0001](https://github.com/user-attachments/assets/860205ce-df83-47b4-a061-79e96225caff)
 
 
-- <a href="[https://github.com/AbdelrhmanSamir6633/AdventureWorks-DataAnalysis-SQL-Power-BI/tree/main/1_Problem%20Explanation](https://app.powerbi.com/groups/me/reports/1ed566a7-bf8d-4c0e-bf71-23f053f420b8/1d6ee74968bc72975bcb?experience=power-bi&bookmarkGuid=d6ed3a85c8886f5188f6)">Power BI Interactive Dashboard</a>
+- <a href="https://app.powerbi.com/groups/me/reports/1ed566a7-bf8d-4c0e-bf71-23f053f420b8/1d6ee74968bc72975bcb?experience=power-bi&bookmarkGuid=d6ed3a85c8886f5188f6">Power BI Interactive Dashboards </a>
 
 
 ## (8/8) Data Source & Project Files
