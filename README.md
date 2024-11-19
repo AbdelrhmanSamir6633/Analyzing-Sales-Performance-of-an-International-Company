@@ -1,4 +1,4 @@
-# Analyzing-Sales-Performance-of-an-International-Company
+# Analyzing Sales Performance of an International Company | Power BI | Power Query | DAX
 
 ## Project Description
 
