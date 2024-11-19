@@ -2,7 +2,7 @@
 
 ## Project Description
 
-this project will evaluate sales data to uncover insights into seasonal trends, regional variations, product performance, and customer behavior. The findings will help the company make data-driven decisions to optimize sales strategies, improve market positioning, and drive revenue growth on a global scale.
+This project will evaluate sales data to uncover insights into seasonal trends, regional variations, product performance, and customer behavior. The findings will help the company make data-driven decisions to optimize sales strategies, improve market positioning, and drive revenue growth on a global scale.
 
 Key deliverables will include interactive dashboards, in-depth visualizations, and detailed reports that highlight opportunities for enhancing sales performance and addressing challenges in various international markets.
 
@@ -83,46 +83,46 @@ The model is structured with relationships connecting the Fact table (sales) to 
       - Creating around 14 Measure for various metrics and KPIs using DAX such as:
 
         1) Total Sales Amount in USD:
-      ![1_Total Sales Amount USD](https://github.com/user-attachments/assets/1a89897f-e199-4413-936c-79c20dbe090b)
+![1_Total Sales Amount USD](https://github.com/user-attachments/assets/1a89897f-e199-4413-936c-79c20dbe090b)
 
-        2) Total Sales Amount of ALL Countries: (to be able to calculate the percentage of Sales correctly)
-      ![2_Total Sales Amount ALL Countries](https://github.com/user-attachments/assets/3c825dbd-57fd-406a-b3d4-b7a1224cc94e)
+        3) Total Sales Amount of ALL Countries: (to be able to calculate the percentage of Sales correctly)
+![2_Total Sales Amount ALL Countries](https://github.com/user-attachments/assets/3c825dbd-57fd-406a-b3d4-b7a1224cc94e)
 
-        3) Sales Percentage:
-      ![3_%Sales](https://github.com/user-attachments/assets/dc614234-acc8-4619-b8e7-9876c881f09f)
+        4) Sales Percentage:
+![3_%Sales](https://github.com/user-attachments/assets/dc614234-acc8-4619-b8e7-9876c881f09f)
 
-        4) Sales Amount ONE month ago:
-      ![8_Sales One Month AGO](https://github.com/user-attachments/assets/a51c099c-aac3-4449-99b4-3f3d8723fe36)
+        5) Sales Amount ONE month ago:
+![8_Sales One Month AGO](https://github.com/user-attachments/assets/a51c099c-aac3-4449-99b4-3f3d8723fe36)
 
-        5) Sales Amount THREE month ago:
-      ![9_Sales Three Month AGO](https://github.com/user-attachments/assets/dc468ac7-f7e7-4c99-b874-c2bd5627a814)
+        6) Sales Amount THREE month ago:
+![9_Sales Three Month AGO](https://github.com/user-attachments/assets/dc468ac7-f7e7-4c99-b874-c2bd5627a814)
 
-        6) Sales Amount SIX month ago:
-      ![10_Sales Six Month AGO](https://github.com/user-attachments/assets/2ae1ec45-a76a-4bbf-bb1b-3c8074949a27)
+        7) Sales Amount SIX month ago:
+![10_Sales Six Month AGO](https://github.com/user-attachments/assets/2ae1ec45-a76a-4bbf-bb1b-3c8074949a27)
 
-        7) Sales Amount for ONLY LAST MONTH:
-      ![4_Only Last Month Sales](https://github.com/user-attachments/assets/7e1dfad3-bb61-4e5f-8fff-cedd4f0d7489)
+        8) Sales Amount for ONLY LAST MONTH:
+![4_Only Last Month Sales](https://github.com/user-attachments/assets/7e1dfad3-bb61-4e5f-8fff-cedd4f0d7489)
 
-        8) Sales Amount per selected Currency:
-      ![5_Sales Amount Selected Currency](https://github.com/user-attachments/assets/509574a3-e136-4ccd-afb5-fe288564a91a)
+        9) Sales Amount per selected Currency:
+![5_Sales Amount Selected Currency](https://github.com/user-attachments/assets/509574a3-e136-4ccd-afb5-fe288564a91a)
 
-        9) Total Sales Amount of ALL Currencies: (to be able to represent the selected Currency vs ALL Currencies)
-      ![7_Total Sales Amount ALL Currencies](https://github.com/user-attachments/assets/935a0223-3e2b-4747-b6f9-237306c1eba6)
+        10) Total Sales Amount of ALL Currencies: (to be able to represent the selected Currency vs ALL Currencies)
+![7_Total Sales Amount ALL Currencies](https://github.com/user-attachments/assets/935a0223-3e2b-4747-b6f9-237306c1eba6)
 
-        10) Dynamic Title for the selected Currency:
-      ![6_Title Currency Type](https://github.com/user-attachments/assets/9b471755-7882-4592-a2fc-04b6c6c22333)
+        11) Dynamic Title for the selected Currency:
+![6_Title Currency Type](https://github.com/user-attachments/assets/9b471755-7882-4592-a2fc-04b6c6c22333)
 
-        11) Dynamic Title for Bar Chart that represents the selected Currency vs ALL Currencies
-      ![11_Title Bar Chart](https://github.com/user-attachments/assets/420c065f-8c88-4d80-9f78-9724e56fe732)
+        12) Dynamic Title for Bar Chart that represents the selected Currency vs ALL Currencies
+![11_Title Bar Chart](https://github.com/user-attachments/assets/420c065f-8c88-4d80-9f78-9724e56fe732)
 
-        12) Total Number of Products sold: (to represent it in a Map showing Number of products sold for each Country)
-      ![13_Total Products Sold](https://github.com/user-attachments/assets/68cee1ed-1566-4aeb-96e5-fa7f1a684530)
+        13) Total Number of Products sold: (to represent it in a Map showing Number of products sold for each Country)
+![13_Total Products Sold](https://github.com/user-attachments/assets/68cee1ed-1566-4aeb-96e5-fa7f1a684530)
 
-        13) Dynamic Title for Map: (to show the selected Country dynamically) 
-      ![12_Title Map](https://github.com/user-attachments/assets/5884a5d2-7dbb-4ca7-b123-6f5a1732e319)
+        14) Dynamic Title for Map: (to show the selected Country dynamically) 
+![12_Title Map](https://github.com/user-attachments/assets/5884a5d2-7dbb-4ca7-b123-6f5a1732e319)
 
-        14) Executed: last Date and Time the report was opened
-      ![14_Executed](https://github.com/user-attachments/assets/99277a65-c0fb-4360-a003-380c47c0af1c)
+        15) Executed: last Date and Time the report was opened
+![14_Executed](https://github.com/user-attachments/assets/99277a65-c0fb-4360-a003-380c47c0af1c)
 
 
     - Parameter: for Dynamic Data Source Connections
