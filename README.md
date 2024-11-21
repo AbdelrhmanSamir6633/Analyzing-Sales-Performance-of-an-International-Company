@@ -85,23 +85,26 @@ The model is structured with relationships connecting the Fact table (sales) to 
         1) Total Sales Amount in USD:
 ![1_Total Sales Amount USD](https://github.com/user-attachments/assets/1a89897f-e199-4413-936c-79c20dbe090b)
 
-        3) Total Sales Amount of ALL Countries: (to be able to calculate the percentage of Sales correctly)
+        2) Total Sales Amount of ALL Countries: (to be able to calculate the percentage of Sales correctly)
 ![2_Total Sales Amount ALL Countries](https://github.com/user-attachments/assets/3c825dbd-57fd-406a-b3d4-b7a1224cc94e)
 
-        4) Sales Percentage:
+        3) Sales Percentage:
 ![3_%Sales](https://github.com/user-attachments/assets/dc614234-acc8-4619-b8e7-9876c881f09f)
 
-        5) Sales Amount ONE month ago:
+        4) Sales Amount ONE month ago:
 ![8_Sales One Month AGO](https://github.com/user-attachments/assets/a51c099c-aac3-4449-99b4-3f3d8723fe36)
 
-        6) Sales Amount THREE month ago:
+        5) Sales Amount THREE month ago:
 ![9_Sales Three Month AGO](https://github.com/user-attachments/assets/dc468ac7-f7e7-4c99-b874-c2bd5627a814)
 
-        7) Sales Amount SIX month ago:
+        6) Sales Amount SIX month ago:
 ![10_Sales Six Month AGO](https://github.com/user-attachments/assets/2ae1ec45-a76a-4bbf-bb1b-3c8074949a27)
 
-        8) Sales Amount for ONLY LAST MONTH:
+        7) Sales Amount for ONLY LAST MONTH:
 ![4_Only Last Month Sales](https://github.com/user-attachments/assets/7e1dfad3-bb61-4e5f-8fff-cedd4f0d7489)
+
+        8) % year-over-year growth:
+![15_%YoY Growth](https://github.com/user-attachments/assets/8ea3500f-4bf1-438f-90ae-ea780bff2e0b)
 
         9) Sales Amount per selected Currency:
 ![5_Sales Amount Selected Currency](https://github.com/user-attachments/assets/509574a3-e136-4ccd-afb5-fe288564a91a)
