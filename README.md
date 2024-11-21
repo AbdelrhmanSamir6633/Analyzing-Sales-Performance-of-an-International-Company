@@ -142,10 +142,16 @@ The model is structured with relationships connecting the Fact table (sales) to 
 The Sales Overview Dashboard provides a high-level summary of the key performance metrics related to sales, offering valuable insights into the overall performance of the business
 showing Total Sales Amount vs Time, Currency, and Country.
 
-![Dashboard_page-0001](https://github.com/user-attachments/assets/860205ce-df83-47b4-a061-79e96225caff)
-
-
 - <a href="https://app.powerbi.com/groups/me/reports/1ed566a7-bf8d-4c0e-bf71-23f053f420b8/1d6ee74968bc72975bcb?experience=power-bi&bookmarkGuid=d6ed3a85c8886f5188f6">Power BI Interactive Dashboards </a>
+
+- Global Sales Analysis - Main Dashboard:
+![Global Sales Analysis - Dashboard_page-0001](https://github.com/user-attachments/assets/55a2f79f-808d-4a79-b64f-d54135e4467f)
+
+- Dynamic Tooltip:
+![Dynamic Tooltip_page-0002](https://github.com/user-attachments/assets/cd34fa90-0f7a-4a3d-a19f-6fe1f3bd504c)
+
+- Dashboard Snapshots:
+- 1) 
 
 
 ## (8/8) Data Source & Project Files
