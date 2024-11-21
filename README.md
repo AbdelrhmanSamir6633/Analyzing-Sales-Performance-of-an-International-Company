@@ -148,10 +148,11 @@ showing Total Sales Amount vs Time, Currency, and Country.
 ![Global Sales Analysis - Dashboard_page-0001](https://github.com/user-attachments/assets/55a2f79f-808d-4a79-b64f-d54135e4467f)
 
 - Dynamic Tooltip:
+  
 ![Dynamic Tooltip_page-0002](https://github.com/user-attachments/assets/cd34fa90-0f7a-4a3d-a19f-6fe1f3bd504c)
 
 - Dashboard Snapshots:
-- 1) 
+  1) 
 
 
 ## (8/8) Data Source & Project Files
