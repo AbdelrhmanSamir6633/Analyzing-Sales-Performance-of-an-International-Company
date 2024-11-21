@@ -100,7 +100,7 @@ The model is structured with relationships connecting the Fact table (sales) to 
         6) Sales Amount SIX month ago:
 ![10_Sales Six Month AGO](https://github.com/user-attachments/assets/2ae1ec45-a76a-4bbf-bb1b-3c8074949a27)
 
-        7) Sales Amount for ONLY LAST MONTH:
+        7) Sales Amount for ONLY LAST MONTH: 
 ![4_Only Last Month Sales](https://github.com/user-attachments/assets/7e1dfad3-bb61-4e5f-8fff-cedd4f0d7489)
 
         8) % year-over-year growth:
@@ -152,7 +152,22 @@ showing Total Sales Amount vs Time, Currency, and Country.
 ![Dynamic Tooltip_page-0002](https://github.com/user-attachments/assets/cd34fa90-0f7a-4a3d-a19f-6fe1f3bd504c)
 
 - Dashboard Snapshots:
-  1) 
+  
+  1) General Overview of dashboard:
+![General Overview of dashboard](https://github.com/user-attachments/assets/832b128c-5bad-4950-a4a6-969e191d20cd)
+
+  2) Customer Selection:
+![Customer Selection](https://github.com/user-attachments/assets/37e86d5b-e644-41e0-ab23-6255ba5ae346)
+
+  3) Currency Selection:
+![Currency Selection](https://github.com/user-attachments/assets/6802d148-72a2-49d4-9e31-b3bf719931b5)
+
+  4) Country Selection:
+![Country Selection](https://github.com/user-attachments/assets/34fce43d-0228-493c-92f1-71227e0e4128)
+
+  5) Time Selection:
+![Time Selection](https://github.com/user-attachments/assets/26a7168b-4f0c-493a-8293-f9eac47b7da5)
+
 
 
 ## (8/8) Data Source & Project Files
