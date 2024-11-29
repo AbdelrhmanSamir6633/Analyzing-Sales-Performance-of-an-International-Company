@@ -80,7 +80,10 @@ The model is structured with relationships connecting the Fact table (sales) to 
       - Converting Sales Amount from all currencies to USD to be able to visualize it as required.
       - Remove duplicates, handle null values.
       - Filter unnecessary rows, and format columns appropriately.
-      - Creating around 14 Measure for various metrics and KPIs using DAX such as:
+      - Creating dim_Date table to compare metrics vs time:
+        - ![00_dim_Date_Table](https://github.com/user-attachments/assets/eb5b408d-4bf7-4762-af06-9a965a7c40f9)
+
+      - Creating around 15 Measure for various metrics and KPIs using DAX such as:
 
         1) Total Sales Amount in USD:
 ![1_Total Sales Amount USD](https://github.com/user-attachments/assets/1a89897f-e199-4413-936c-79c20dbe090b)
